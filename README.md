@@ -1,4 +1,3 @@
-```markdown
 # MD5 Dictionary Hash Cracker (Python)
 
 A small Python tool I built to learn and demonstrate how dictionary attacks work against MD5 hashes.
